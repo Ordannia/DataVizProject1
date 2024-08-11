@@ -1,0 +1,1450 @@
+section,category,metric,type,date,value
+State Data,Cumulative counts to date,Cumulative Doses Administered,All COVID Vaccines,NA,1117173
+State Data,Cumulative counts to date,Cumulative Doses Distributed,All COVID Vaccines,NA,1114900
+State Data,Cumulative counts to date,People Immunized with One Dose,NA,NA,767803
+State Data,Cumulative counts to date,People Immunized with Two Doses,NA,NA,348031
+State Data,Cumulative counts to date,Total Vaccine Providers,NA,NA,835
+State Metrics,Vaccinations,Immunized Yesterday,Moderna,NA,12741
+State Metrics,Vaccinations,Immunized Yesterday,Moderna Change from Yesterday,NA,-321
+State Metrics,Vaccinations,Immunized Yesterday,Pfizer,NA,9744
+State Metrics,Vaccinations,Immunized Yesterday,Pfizer Change from Yesterday,NA,-1901
+State Metrics,Vaccinations,Immunized Yesterday,Unspecified COVID Vaccine,NA,3
+State Metrics,Vaccinations,Immunized Yesterday,Unspecified COVID Vaccine Change from Yesterday,NA,2
+State Metrics,Vaccinations,Record Added Today But Immunized In Past,Moderna,NA,0
+State Metrics,Vaccinations,Record Added Today But Immunized In Past,Pfizer,NA,0
+State Metrics,Vaccinations,Record Added Today But Immunized In Past,Unspecified COVID Vaccine,NA,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-14,192
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-14,191
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-14,0
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-14,192
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-14,191
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-14,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-15,417
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-15,412
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-15,0
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-15,225
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-15,221
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-15,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-16,4208
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-16,4198
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-16,0
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-16,3791
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-16,3786
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-16,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-17,16391
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-17,16379
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-17,1
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-17,12183
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-17,12181
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-17,1
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-18,28596
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-18,28580
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-18,1
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-18,12205
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-18,12201
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-18,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-19,34063
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-19,34043
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-19,1
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-19,5467
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-19,5463
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-19,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-20,36936
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-20,8
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-20,36906
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-20,3
+Vaccine Administration,Administration,Cumulative Weekly,All COVID Vaccines,2020-12-20,70915
+Vaccine Administration,Administration,Cumulative Weekly,Moderna,2020-12-20,19620
+Vaccine Administration,Administration,Cumulative Weekly,Pfizer,2020-12-20,51267
+Vaccine Administration,Administration,Cumulative Weekly,Unspecified COVID Vaccine,2020-12-20,9
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-20,2873
+Vaccine Administration,Administration,Daily,Moderna,2020-12-20,8
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-20,2863
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-20,2
+Vaccine Administration,Administration,Weekly,All COVID Vaccines,2020-12-20,36852
+Vaccine Administration,Administration,Weekly,Moderna,2020-12-20,19620
+Vaccine Administration,Administration,Weekly,Pfizer,2020-12-20,17224
+Vaccine Administration,Administration,Weekly,Unspecified COVID Vaccine,2020-12-20,8
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2020-12-20,199775
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2020-12-20,128600
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2020-12-20,71175
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2020-12-20,45675
+Vaccine Administration,Distribution,Weekly,Moderna,2020-12-20,33000
+Vaccine Administration,Distribution,Weekly,Pfizer,2020-12-20,12675
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-21,42392
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-21,37
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-21,42337
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-21,3
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-21,5456
+Vaccine Administration,Administration,Daily,Moderna,2020-12-21,29
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-21,5431
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-21,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-22,49961
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-22,3652
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-22,46289
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-22,5
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-22,7569
+Vaccine Administration,Administration,Daily,Moderna,2020-12-22,3615
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-22,3952
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-22,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-23,64228
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-23,14046
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-23,50168
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-23,8
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-23,14267
+Vaccine Administration,Administration,Daily,Moderna,2020-12-23,10394
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-23,3879
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-23,3
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-24,68332
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-24,17441
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-24,50876
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-24,9
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-24,4104
+Vaccine Administration,Administration,Daily,Moderna,2020-12-24,3395
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-24,708
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-24,1
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-25,68345
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-25,17454
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-25,50876
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-25,9
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-25,13
+Vaccine Administration,Administration,Daily,Moderna,2020-12-25,13
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-25,0
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-25,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-26,70902
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-26,19620
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-26,51267
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-26,9
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-26,2557
+Vaccine Administration,Administration,Daily,Moderna,2020-12-26,2166
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-26,391
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-26,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-27,72928
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-27,21403
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-27,51510
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-27,9
+Vaccine Administration,Administration,Cumulative Weekly,All COVID Vaccines,2020-12-27,122624
+Vaccine Administration,Administration,Cumulative Weekly,Moderna,2020-12-27,53587
+Vaccine Administration,Administration,Cumulative Weekly,Pfizer,2020-12-27,68998
+Vaccine Administration,Administration,Cumulative Weekly,Unspecified COVID Vaccine,2020-12-27,20
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-27,2026
+Vaccine Administration,Administration,Daily,Moderna,2020-12-27,1783
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-27,243
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-27,0
+Vaccine Administration,Administration,Weekly,All COVID Vaccines,2020-12-27,51709
+Vaccine Administration,Administration,Weekly,Moderna,2020-12-27,33967
+Vaccine Administration,Administration,Weekly,Pfizer,2020-12-27,17731
+Vaccine Administration,Administration,Weekly,Unspecified COVID Vaccine,2020-12-27,11
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2020-12-27,267400
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2020-12-27,146500
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2020-12-27,120900
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2020-12-27,67625
+Vaccine Administration,Distribution,Weekly,Moderna,2020-12-27,17900
+Vaccine Administration,Distribution,Weekly,Pfizer,2020-12-27,49725
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-28,81838
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-28,28115
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-28,53705
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-28,12
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-28,8910
+Vaccine Administration,Administration,Daily,Moderna,2020-12-28,6712
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-28,2195
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-28,3
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-29,90884
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-29,35325
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-29,55539
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-29,14
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-29,9046
+Vaccine Administration,Administration,Daily,Moderna,2020-12-29,7210
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-29,1834
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-29,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-30,106209
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-30,45299
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-30,60888
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-30,16
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-30,15325
+Vaccine Administration,Administration,Daily,Moderna,2020-12-30,9974
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-30,5349
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-30,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2020-12-31,115840
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2020-12-31,51120
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2020-12-31,64695
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2020-12-31,19
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2020-12-31,9631
+Vaccine Administration,Administration,Daily,Moderna,2020-12-31,5821
+Vaccine Administration,Administration,Daily,Pfizer,2020-12-31,3807
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2020-12-31,3
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-01,116747
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-01,51495
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-01,65227
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-01,19
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-01,907
+Vaccine Administration,Administration,Daily,Moderna,2021-01-01,375
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-01,532
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-01,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-02,122611
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-02,53587
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-02,68998
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-02,20
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-02,5864
+Vaccine Administration,Administration,Daily,Moderna,2021-01-02,2092
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-02,3771
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-02,1
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-03,124654
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-03,54393
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-03,70235
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-03,20
+Vaccine Administration,Administration,Cumulative Weekly,All COVID Vaccines,2021-01-03,235716
+Vaccine Administration,Administration,Cumulative Weekly,Moderna,2021-01-03,110623
+Vaccine Administration,Administration,Cumulative Weekly,Pfizer,2021-01-03,125032
+Vaccine Administration,Administration,Cumulative Weekly,Unspecified COVID Vaccine,2021-01-03,42
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-03,2043
+Vaccine Administration,Administration,Daily,Moderna,2021-01-03,806
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-03,1237
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-03,0
+Vaccine Administration,Administration,Weekly,All COVID Vaccines,2021-01-03,113092
+Vaccine Administration,Administration,Weekly,Moderna,2021-01-03,57036
+Vaccine Administration,Administration,Weekly,Pfizer,2021-01-03,56034
+Vaccine Administration,Administration,Weekly,Unspecified COVID Vaccine,2021-01-03,22
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-01-03,340050
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-01-03,193800
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-01-03,146250
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-01-03,72650
+Vaccine Administration,Distribution,Weekly,Moderna,2021-01-03,47300
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-01-03,25350
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-04,133616
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-04,60180
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-04,73407
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-04,23
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-04,8962
+Vaccine Administration,Administration,Daily,Moderna,2021-01-04,5787
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-04,3172
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-04,3
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-05,145524
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-05,68086
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-05,77407
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-05,26
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-05,11908
+Vaccine Administration,Administration,Daily,Moderna,2021-01-05,7906
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-05,4000
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-05,3
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-06,165248
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-06,78673
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-06,86541
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-06,30
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-06,19724
+Vaccine Administration,Administration,Daily,Moderna,2021-01-06,10587
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-06,9134
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-06,4
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-07,191737
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-07,90028
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-07,101670
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-07,35
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-07,26489
+Vaccine Administration,Administration,Daily,Moderna,2021-01-07,11355
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-07,15129
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-07,5
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-08,221663
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-08,103742
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-08,117878
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-08,39
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-08,29926
+Vaccine Administration,Administration,Daily,Moderna,2021-01-08,13714
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-08,16208
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-08,4
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-09,235701
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-09,110623
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-09,125032
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-09,42
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-09,14038
+Vaccine Administration,Administration,Daily,Moderna,2021-01-09,6881
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-09,7154
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-09,3
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-10,239958
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-10,112067
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-10,127845
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-10,42
+Vaccine Administration,Administration,Cumulative Weekly,All COVID Vaccines,2021-01-10,344481
+Vaccine Administration,Administration,Cumulative Weekly,Moderna,2021-01-10,164884
+Vaccine Administration,Administration,Cumulative Weekly,Pfizer,2021-01-10,179502
+Vaccine Administration,Administration,Cumulative Weekly,Unspecified COVID Vaccine,2021-01-10,76
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-10,4257
+Vaccine Administration,Administration,Daily,Moderna,2021-01-10,1444
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-10,2813
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-10,0
+Vaccine Administration,Administration,Weekly,All COVID Vaccines,2021-01-10,108765
+Vaccine Administration,Administration,Weekly,Moderna,2021-01-10,54261
+Vaccine Administration,Administration,Weekly,Pfizer,2021-01-10,54470
+Vaccine Administration,Administration,Weekly,Unspecified COVID Vaccine,2021-01-10,34
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-01-10,517425
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-01-10,323400
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-01-10,194025
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-01-10,177375
+Vaccine Administration,Distribution,Weekly,Moderna,2021-01-10,129600
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-01-10,47775
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-11,257014
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-11,119889
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-11,137075
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-11,46
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-11,17056
+Vaccine Administration,Administration,Daily,Moderna,2021-01-11,7822
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-11,9230
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-11,4
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-12,273287
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-12,128135
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-12,145098
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-12,50
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-12,16273
+Vaccine Administration,Administration,Daily,Moderna,2021-01-12,8246
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-12,8023
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-12,4
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-13,293875
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-13,139117
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-13,154688
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-13,67
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-13,20588
+Vaccine Administration,Administration,Daily,Moderna,2021-01-13,10982
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-13,9590
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-13,17
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-14,313386
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-14,149075
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-14,164237
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-14,72
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-14,19511
+Vaccine Administration,Administration,Daily,Moderna,2021-01-14,9958
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-14,9549
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-14,5
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-15,332955
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-15,159000
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-15,173879
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-15,74
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-15,19569
+Vaccine Administration,Administration,Daily,Moderna,2021-01-15,9925
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-15,9642
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-15,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-16,344464
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-16,164884
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-16,179502
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-16,76
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-16,11509
+Vaccine Administration,Administration,Daily,Moderna,2021-01-16,5884
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-16,5623
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-16,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-17,348355
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-17,167058
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-17,181215
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-17,80
+Vaccine Administration,Administration,Cumulative Weekly,All COVID Vaccines,2021-01-17,472827
+Vaccine Administration,Administration,Cumulative Weekly,Moderna,2021-01-17,234301
+Vaccine Administration,Administration,Cumulative Weekly,Pfizer,2021-01-17,238398
+Vaccine Administration,Administration,Cumulative Weekly,Unspecified COVID Vaccine,2021-01-17,109
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-17,3891
+Vaccine Administration,Administration,Daily,Moderna,2021-01-17,2174
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-17,1713
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-17,4
+Vaccine Administration,Administration,Weekly,All COVID Vaccines,2021-01-17,128346
+Vaccine Administration,Administration,Weekly,Moderna,2021-01-17,69417
+Vaccine Administration,Administration,Weekly,Pfizer,2021-01-17,58896
+Vaccine Administration,Administration,Weekly,Unspecified COVID Vaccine,2021-01-17,33
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-01-17,623450
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-01-17,391400
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-01-17,232050
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-01-17,106025
+Vaccine Administration,Distribution,Weekly,Moderna,2021-01-17,68000
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-01-17,38025
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-18,358925
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-18,171952
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-18,186890
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-18,81
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-18,10570
+Vaccine Administration,Administration,Daily,Moderna,2021-01-18,4894
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-18,5675
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-18,1
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-19,374796
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-19,179573
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-19,195135
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-19,86
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-19,15871
+Vaccine Administration,Administration,Daily,Moderna,2021-01-19,7621
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-19,8245
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-19,5
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-20,400344
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-20,195532
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-20,204717
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-20,94
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-20,25548
+Vaccine Administration,Administration,Daily,Moderna,2021-01-20,15959
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-20,9582
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-20,8
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-21,429417
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-21,211139
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-21,218181
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-21,96
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-21,29073
+Vaccine Administration,Administration,Daily,Moderna,2021-01-21,15607
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-21,13464
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-21,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-22,457221
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-22,225989
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-22,231132
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-22,104
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-22,27804
+Vaccine Administration,Administration,Daily,Moderna,2021-01-22,14850
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-22,12951
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-22,8
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-23,472803
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-23,234301
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-23,238398
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-23,109
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-23,15582
+Vaccine Administration,Administration,Daily,Moderna,2021-01-23,8312
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-23,7266
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-23,5
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-24,479508
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-24,237739
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-24,241663
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-24,111
+Vaccine Administration,Administration,Cumulative Weekly,All COVID Vaccines,2021-01-24,606987
+Vaccine Administration,Administration,Cumulative Weekly,Moderna,2021-01-24,311231
+Vaccine Administration,Administration,Cumulative Weekly,Pfizer,2021-01-24,295593
+Vaccine Administration,Administration,Cumulative Weekly,Unspecified COVID Vaccine,2021-01-24,144
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-24,6705
+Vaccine Administration,Administration,Daily,Moderna,2021-01-24,3438
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-24,3265
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-24,2
+Vaccine Administration,Administration,Weekly,All COVID Vaccines,2021-01-24,134160
+Vaccine Administration,Administration,Weekly,Moderna,2021-01-24,76930
+Vaccine Administration,Administration,Weekly,Pfizer,2021-01-24,57195
+Vaccine Administration,Administration,Weekly,Unspecified COVID Vaccine,2021-01-24,35
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-01-24,760950
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-01-24,466500
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-01-24,294450
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-01-24,137500
+Vaccine Administration,Distribution,Weekly,Moderna,2021-01-24,75100
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-01-24,62400
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-25,497151
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-25,250793
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-25,246247
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-25,116
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-25,17643
+Vaccine Administration,Administration,Daily,Moderna,2021-01-25,13054
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-25,4584
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-25,5
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-26,515890
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-26,264323
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-26,251455
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-26,118
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-26,18739
+Vaccine Administration,Administration,Daily,Moderna,2021-01-26,13530
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-26,5208
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-26,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-27,541692
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-27,280415
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-27,261164
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-27,120
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-27,25802
+Vaccine Administration,Administration,Daily,Moderna,2021-01-27,16092
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-27,9709
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-27,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-28,564298
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-28,294860
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-28,269322
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-28,126
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-28,22606
+Vaccine Administration,Administration,Daily,Moderna,2021-01-28,14445
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-28,8158
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-28,6
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-29,588511
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-29,305247
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-29,283147
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-29,128
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-29,24213
+Vaccine Administration,Administration,Daily,Moderna,2021-01-29,10387
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-29,13825
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-29,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-30,606955
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-30,311231
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-30,295593
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-30,144
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-30,18444
+Vaccine Administration,Administration,Daily,Moderna,2021-01-30,5984
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-30,12446
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-30,16
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-01-31,616823
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-01-31,313802
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-01-31,302892
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-01-31,144
+Vaccine Administration,Administration,Cumulative Weekly,All COVID Vaccines,2021-01-31,782412
+Vaccine Administration,Administration,Cumulative Weekly,Moderna,2021-01-31,396584
+Vaccine Administration,Administration,Cumulative Weekly,Pfizer,2021-01-31,385625
+Vaccine Administration,Administration,Cumulative Weekly,Unspecified COVID Vaccine,2021-01-31,184
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-01-31,9868
+Vaccine Administration,Administration,Daily,Moderna,2021-01-31,2571
+Vaccine Administration,Administration,Daily,Pfizer,2021-01-31,7299
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-01-31,0
+Vaccine Administration,Administration,Weekly,All COVID Vaccines,2021-01-31,175425
+Vaccine Administration,Administration,Weekly,Moderna,2021-01-31,85353
+Vaccine Administration,Administration,Weekly,Pfizer,2021-01-31,90032
+Vaccine Administration,Administration,Weekly,Unspecified COVID Vaccine,2021-01-31,40
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-01-31,928600
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-01-31,554200
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-01-31,374400
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-01-31,167650
+Vaccine Administration,Distribution,Weekly,Moderna,2021-01-31,87700
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-01-31,79950
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-01,633854
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-01,321706
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-01,312017
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-01,146
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-01,17031
+Vaccine Administration,Administration,Daily,Moderna,2021-02-01,7904
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-01,9125
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-01,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-02,655605
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-02,333013
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-02,322457
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-02,151
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-02,21751
+Vaccine Administration,Administration,Daily,Moderna,2021-02-02,11307
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-02,10440
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-02,5
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-03,683499
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-03,347059
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-03,336303
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-03,158
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-03,27894
+Vaccine Administration,Administration,Daily,Moderna,2021-02-03,14046
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-03,13846
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-03,7
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-04,718950
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-04,365770
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-04,353043
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-04,158
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-04,35451
+Vaccine Administration,Administration,Daily,Moderna,2021-02-04,18711
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-04,16740
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-04,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-05,757270
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-05,385224
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-05,371907
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-05,162
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-05,38320
+Vaccine Administration,Administration,Daily,Moderna,2021-02-05,19454
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-05,18864
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-05,4
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-06,782369
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-06,396584
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-06,385625
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-06,184
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-06,25099
+Vaccine Administration,Administration,Daily,Moderna,2021-02-06,11360
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-06,13718
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-06,22
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-07,786431
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-07,398204
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-07,388066
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-07,185
+Vaccine Administration,Administration,Cumulative Weekly,All COVID Vaccines,2021-02-07,1002386
+Vaccine Administration,Administration,Cumulative Weekly,Moderna,2021-02-07,502305
+Vaccine Administration,Administration,Cumulative Weekly,Pfizer,2021-02-07,499847
+Vaccine Administration,Administration,Cumulative Weekly,Unspecified COVID Vaccine,2021-02-07,215
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-07,4062
+Vaccine Administration,Administration,Daily,Moderna,2021-02-07,1620
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-07,2441
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-07,1
+Vaccine Administration,Administration,Weekly,All COVID Vaccines,2021-02-07,219974
+Vaccine Administration,Administration,Weekly,Moderna,2021-02-07,105721
+Vaccine Administration,Administration,Weekly,Pfizer,2021-02-07,114222
+Vaccine Administration,Administration,Weekly,Unspecified COVID Vaccine,2021-02-07,31
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-02-07,1091500
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-02-07,639100
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-02-07,452400
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-02-07,162900
+Vaccine Administration,Distribution,Weekly,Moderna,2021-02-07,84900
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-02-07,78000
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-08,811437
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-08,409557
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-08,401719
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-08,185
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-08,25006
+Vaccine Administration,Administration,Daily,Moderna,2021-02-08,11353
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-08,13653
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-08,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-09,838788
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-09,422602
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-09,416023
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-09,187
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-09,27351
+Vaccine Administration,Administration,Daily,Moderna,2021-02-09,13045
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-09,14304
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-09,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-10,870597
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-10,440932
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-10,429504
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-10,187
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-10,31809
+Vaccine Administration,Administration,Daily,Moderna,2021-02-10,18330
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-10,13481
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-10,0
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-11,912779
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-11,462965
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-11,449652
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-11,189
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-11,42182
+Vaccine Administration,Administration,Daily,Moderna,2021-02-11,22033
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-11,20148
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-11,2
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-12,955551
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-12,484736
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-12,470648
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-12,195
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-12,42772
+Vaccine Administration,Administration,Daily,Moderna,2021-02-12,21771
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-12,20996
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-12,6
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-13,1002339
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-13,502305
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-13,499847
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-13,215
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-13,46788
+Vaccine Administration,Administration,Daily,Moderna,2021-02-13,17569
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-13,29199
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-13,20
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-14,1023350
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-14,508804
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-14,514359
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-14,215
+Vaccine Administration,Administration,Cumulative Weekly,All COVID Vaccines,2021-02-14,1117223
+Vaccine Administration,Administration,Cumulative Weekly,Moderna,2021-02-14,558381
+Vaccine Administration,Administration,Cumulative Weekly,Pfizer,2021-02-14,558602
+Vaccine Administration,Administration,Cumulative Weekly,Unspecified COVID Vaccine,2021-02-14,221
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-14,21011
+Vaccine Administration,Administration,Daily,Moderna,2021-02-14,6499
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-14,14512
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-14,0
+Vaccine Administration,Administration,Weekly,All COVID Vaccines,2021-02-14,114837
+Vaccine Administration,Administration,Weekly,Moderna,2021-02-14,56076
+Vaccine Administration,Administration,Weekly,Pfizer,2021-02-14,58755
+Vaccine Administration,Administration,Weekly,Unspecified COVID Vaccine,2021-02-14,6
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-02-14,1114900
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-02-14,639100
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-02-14,475800
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-02-14,23400
+Vaccine Administration,Distribution,Weekly,Moderna,2021-02-14,0
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-02-14,23400
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-15,1049463
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-15,520197
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-15,529078
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-15,216
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-15,26113
+Vaccine Administration,Administration,Daily,Moderna,2021-02-15,11393
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-15,14719
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-15,1
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-16,1069979
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-16,532578
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-16,537213
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-16,217
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-16,20516
+Vaccine Administration,Administration,Daily,Moderna,2021-02-16,12381
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-16,8135
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-16,1
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-17,1094686
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-17,545640
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-17,548858
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-17,218
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-17,24707
+Vaccine Administration,Administration,Daily,Moderna,2021-02-17,13062
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-17,11645
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-17,1
+Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,2021-02-18,1117173
+Vaccine Administration,Administration,Cumulative Daily,Moderna,2021-02-18,558381
+Vaccine Administration,Administration,Cumulative Daily,Pfizer,2021-02-18,558602
+Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,2021-02-18,221
+Vaccine Administration,Administration,Daily,All COVID Vaccines,2021-02-18,22487
+Vaccine Administration,Administration,Daily,Moderna,2021-02-18,12741
+Vaccine Administration,Administration,Daily,Pfizer,2021-02-18,9744
+Vaccine Administration,Administration,Daily,Unspecified COVID Vaccine,2021-02-18,3
+Demographics,Age Group,0-9,All COVID Vaccines,NA,0
+Demographics,Age Group,10-19,All COVID Vaccines,NA,0.0042
+Demographics,Age Group,20-29,All COVID Vaccines,NA,0.0766
+Demographics,Age Group,30-39,All COVID Vaccines,NA,0.115
+Demographics,Age Group,40-49,All COVID Vaccines,NA,0.1085
+Demographics,Age Group,50-59,All COVID Vaccines,NA,0.1003
+Demographics,Age Group,60-69,All COVID Vaccines,NA,0.1495
+Demographics,Age Group,70-79,All COVID Vaccines,NA,0.3071
+Demographics,Age Group,80+,All COVID Vaccines,NA,0.1381
+Demographics,Percent of Colorado Population,0-9,NA,NA,0.1161
+Demographics,Percent of Colorado Population,10-19,NA,NA,0.1301
+Demographics,Percent of Colorado Population,20-29,NA,NA,0.1466
+Demographics,Percent of Colorado Population,30-39,NA,NA,0.146
+Demographics,Percent of Colorado Population,40-49,NA,NA,0.1298
+Demographics,Percent of Colorado Population,50-59,NA,NA,0.1248
+Demographics,Percent of Colorado Population,60-69,NA,NA,0.1104
+Demographics,Percent of Colorado Population,70-79,NA,NA,0.0644
+Demographics,Percent of Colorado Population,80+,NA,NA,0.032
+Demographics,Percent of Colorado Population,American Indian or Alaska Native,NA,NA,0.0056
+Demographics,Percent of Colorado Population,Asian,NA,NA,0.0312
+Demographics,Percent of Colorado Population,Black or African American,NA,NA,0.0392
+Demographics,Percent of Colorado Population,Female,NA,NA,0.4996
+Demographics,Percent of Colorado Population,"Hispanic, All Races",NA,NA,0.2169
+Demographics,Percent of Colorado Population,Male,NA,NA,0.5004
+Demographics,Percent of Colorado Population,Multiple Races - Non Hispanic,NA,NA,0.0265
+Demographics,Percent of Colorado Population,Native Hawaiian or Other Pacific Islander,NA,NA,0.0012
+Demographics,Percent of Colorado Population,Other,NA,NA,0.0019
+Demographics,Percent of Colorado Population,White - Non Hispanic,NA,NA,0.6776
+Demographics,Race and Ethnicity,American Indian or Alaskan Native - Non Hispanic,All COVID Vaccines,NA,0.0048
+Demographics,Race and Ethnicity,Asian - Non Hispanic,All COVID Vaccines,NA,0.0175
+Demographics,Race and Ethnicity,Black or African American - Non Hispanic,All COVID Vaccines,NA,0.0208
+Demographics,Race and Ethnicity,"Hispanic, All Races",All COVID Vaccines,NA,0.0498
+Demographics,Race and Ethnicity,Multi Race - Non Hispanic,All COVID Vaccines,NA,0.0164
+Demographics,Race and Ethnicity,Native Hawaiian or Other Pacific Islander - Non Hispanic,All COVID Vaccines,NA,0.0017
+Demographics,Race and Ethnicity,Other,All COVID Vaccines,NA,0.0016
+Demographics,Race and Ethnicity,Unknown,All COVID Vaccines,NA,0.1461
+Demographics,Race and Ethnicity,White - Non Hispanic,All COVID Vaccines,NA,0.7407
+Demographics,Sex,Female,All COVID Vaccines,NA,0.612
+Demographics,Sex,Male,All COVID Vaccines,NA,0.3849
+Demographics,Sex,Unknown,All COVID Vaccines,NA,0.0025
+County-level Data,Doses Administered,Adams County,Count,NA,76149
+County-level Data,Doses Administered,Alamosa County,Count,NA,4335
+County-level Data,Doses Administered,Arapahoe County,Count,NA,113815
+County-level Data,Doses Administered,Archuleta County,Count,NA,4483
+County-level Data,Doses Administered,Baca County,Count,NA,1014
+County-level Data,Doses Administered,Bent County,Count,NA,653
+County-level Data,Doses Administered,Boulder County,Count,NA,69917
+County-level Data,Doses Administered,Broomfield County,Count,NA,16829
+County-level Data,Doses Administered,Chaffee County,Count,NA,8049
+County-level Data,Doses Administered,Cheyenne County,Count,NA,398
+County-level Data,Doses Administered,Clear Creek County,Count,NA,1353
+County-level Data,Doses Administered,Conejos County,Count,NA,1665
+County-level Data,Doses Administered,Costilla County,Count,NA,1288
+County-level Data,Doses Administered,Crowley County,Count,NA,718
+County-level Data,Doses Administered,Custer County,Count,NA,1304
+County-level Data,Doses Administered,Delta County,Count,NA,5292
+County-level Data,Doses Administered,Denver County,Count,NA,142366
+County-level Data,Doses Administered,Dolores County,Count,NA,503
+County-level Data,Doses Administered,Douglas County,Count,NA,67101
+County-level Data,Doses Administered,Eagle County,Count,NA,14205
+County-level Data,Doses Administered,El Paso County,Count,NA,105664
+County-level Data,Doses Administered,Elbert County,Count,NA,2530
+County-level Data,Doses Administered,Fremont County,Count,NA,9718
+County-level Data,Doses Administered,Garfield County,Count,NA,14169
+County-level Data,Doses Administered,Gilpin County,Count,NA,1105
+County-level Data,Doses Administered,Grand County,Count,NA,2816
+County-level Data,Doses Administered,Gunnison County,Count,NA,5159
+County-level Data,Doses Administered,Hinsdale County,Count,NA,398
+County-level Data,Doses Administered,Huerfano County,Count,NA,2076
+County-level Data,Doses Administered,Jackson County,Count,NA,332
+County-level Data,Doses Administered,Jefferson County,Count,NA,132226
+County-level Data,Doses Administered,Kiowa County,Count,NA,497
+County-level Data,Doses Administered,Kit Carson County,Count,NA,1379
+County-level Data,Doses Administered,La Plata County,Count,NA,15314
+County-level Data,Doses Administered,Lake County,Count,NA,1770
+County-level Data,Doses Administered,Larimer County,Count,NA,75258
+County-level Data,Doses Administered,Las Animas County,Count,NA,4920
+County-level Data,Doses Administered,Lincoln County,Count,NA,1166
+County-level Data,Doses Administered,Logan County,Count,NA,4345
+County-level Data,Doses Administered,Mesa County,Count,NA,25392
+County-level Data,Doses Administered,Mineral County,Count,NA,458
+County-level Data,Doses Administered,Moffat County,Count,NA,2634
+County-level Data,Doses Administered,Montezuma County,Count,NA,7691
+County-level Data,Doses Administered,Montrose County,Count,NA,7293
+County-level Data,Doses Administered,Morgan County,Count,NA,4394
+County-level Data,Doses Administered,Otero County,Count,NA,4888
+County-level Data,Doses Administered,Other,Count,NA,16864
+County-level Data,Doses Administered,Ouray County,Count,NA,1187
+County-level Data,Doses Administered,Park County,Count,NA,2970
+County-level Data,Doses Administered,Phillips County,Count,NA,1300
+County-level Data,Doses Administered,Pitkin County,Count,NA,3800
+County-level Data,Doses Administered,Prowers County,Count,NA,2316
+County-level Data,Doses Administered,Pueblo County,Count,NA,37937
+County-level Data,Doses Administered,Rio Blanco County,Count,NA,1633
+County-level Data,Doses Administered,Rio Grande County,Count,NA,3194
+County-level Data,Doses Administered,Routt County,Count,NA,6921
+County-level Data,Doses Administered,Saguache County,Count,NA,1010
+County-level Data,Doses Administered,San Juan County,Count,NA,498
+County-level Data,Doses Administered,San Miguel County,Count,NA,1800
+County-level Data,Doses Administered,Sedgwick County,Count,NA,1100
+County-level Data,Doses Administered,Summit County,Count,NA,7494
+County-level Data,Doses Administered,Teller County,Count,NA,5001
+County-level Data,Doses Administered,Washington County,Count,NA,776
+County-level Data,Doses Administered,Weld County,Count,NA,53631
+County-level Data,Doses Administered,Yuma County,Count,NA,2712
+County-level Data,"Doses Administered per 100,000 People",Adams County,"Rate per 100,000",NA,14703.843517383202
+County-level Data,"Doses Administered per 100,000 People",Alamosa County,"Rate per 100,000",NA,26790.68042766207
+County-level Data,"Doses Administered per 100,000 People",Arapahoe County,"Rate per 100,000",NA,17328.134563093197
+County-level Data,"Doses Administered per 100,000 People",Archuleta County,"Rate per 100,000",NA,32016.854735037854
+County-level Data,"Doses Administered per 100,000 People",Baca County,"Rate per 100,000",NA,28515.185601799774
+County-level Data,"Doses Administered per 100,000 People",Bent County,"Rate per 100,000",NA,11262.504311831666
+County-level Data,"Doses Administered per 100,000 People",Boulder County,"Rate per 100,000",NA,21370.62757516108
+County-level Data,"Doses Administered per 100,000 People",Broomfield County,"Rate per 100,000",NA,23782.538650688224
+County-level Data,"Doses Administered per 100,000 People",Chaffee County,"Rate per 100,000",NA,39531.457197583615
+County-level Data,"Doses Administered per 100,000 People",Cheyenne County,"Rate per 100,000",NA,21808.219178082192
+County-level Data,"Doses Administered per 100,000 People",Clear Creek County,"Rate per 100,000",NA,13891.1704312115
+County-level Data,"Doses Administered per 100,000 People",Conejos County,"Rate per 100,000",NA,20401.9115304497
+County-level Data,"Doses Administered per 100,000 People",Costilla County,"Rate per 100,000",NA,33264.46280991736
+County-level Data,"Doses Administered per 100,000 People",Crowley County,"Rate per 100,000",NA,11903.18302387268
+County-level Data,"Doses Administered per 100,000 People",Custer County,"Rate per 100,000",NA,25775.84502866179
+County-level Data,"Doses Administered per 100,000 People",Delta County,"Rate per 100,000",NA,16976.22942931383
+County-level Data,"Doses Administered per 100,000 People",Denver County,"Rate per 100,000",NA,19522.54336369832
+County-level Data,"Doses Administered per 100,000 People",Dolores County,"Rate per 100,000",NA,24693.176239567994
+County-level Data,"Doses Administered per 100,000 People",Douglas County,"Rate per 100,000",NA,19088.379873011538
+County-level Data,"Doses Administered per 100,000 People",Eagle County,"Rate per 100,000",NA,25794.443435627385
+County-level Data,"Doses Administered per 100,000 People",El Paso County,"Rate per 100,000",NA,14624.916781200647
+County-level Data,"Doses Administered per 100,000 People",Elbert County,"Rate per 100,000",NA,9480.626545754329
+County-level Data,"Doses Administered per 100,000 People",Fremont County,"Rate per 100,000",NA,20396.683807325007
+County-level Data,"Doses Administered per 100,000 People",Garfield County,"Rate per 100,000",NA,23549.06262465098
+County-level Data,"Doses Administered per 100,000 People",Gilpin County,"Rate per 100,000",NA,17779.565567176185
+County-level Data,"Doses Administered per 100,000 People",Grand County,"Rate per 100,000",NA,17915.7653645502
+County-level Data,"Doses Administered per 100,000 People",Gunnison County,"Rate per 100,000",NA,29488.425264361245
+County-level Data,"Doses Administered per 100,000 People",Hinsdale County,"Rate per 100,000",NA,48595.8485958486
+County-level Data,"Doses Administered per 100,000 People",Huerfano County,"Rate per 100,000",NA,30288.882404435368
+County-level Data,"Doses Administered per 100,000 People",Jackson County,"Rate per 100,000",NA,24005.7845263919
+County-level Data,"Doses Administered per 100,000 People",Jefferson County,"Rate per 100,000",NA,22677.123761535702
+County-level Data,"Doses Administered per 100,000 People",Kiowa County,"Rate per 100,000",NA,35627.24014336918
+County-level Data,"Doses Administered per 100,000 People",Kit Carson County,"Rate per 100,000",NA,19346.240179573513
+County-level Data,"Doses Administered per 100,000 People",La Plata County,"Rate per 100,000",NA,27214.245095251634
+County-level Data,"Doses Administered per 100,000 People",Lake County,"Rate per 100,000",NA,21903.22979829229
+County-level Data,"Doses Administered per 100,000 People",Larimer County,"Rate per 100,000",NA,21084.333973967467
+County-level Data,"Doses Administered per 100,000 People",Las Animas County,"Rate per 100,000",NA,33947.4228938108
+County-level Data,"Doses Administered per 100,000 People",Lincoln County,"Rate per 100,000",NA,20484.891075193253
+County-level Data,"Doses Administered per 100,000 People",Logan County,"Rate per 100,000",NA,19827.50752943324
+County-level Data,"Doses Administered per 100,000 People",Mesa County,"Rate per 100,000",NA,16389.019769835995
+County-level Data,"Doses Administered per 100,000 People",Mineral County,"Rate per 100,000",NA,59947.6439790576
+County-level Data,"Doses Administered per 100,000 People",Moffat County,"Rate per 100,000",NA,19876.24509507999
+County-level Data,"Doses Administered per 100,000 People",Montezuma County,"Rate per 100,000",NA,29399.847094801222
+County-level Data,"Doses Administered per 100,000 People",Montrose County,"Rate per 100,000",NA,17053.66538056822
+County-level Data,"Doses Administered per 100,000 People",Morgan County,"Rate per 100,000",NA,15160.08832459288
+County-level Data,"Doses Administered per 100,000 People",Otero County,"Rate per 100,000",NA,26738.14342760243
+County-level Data,"Doses Administered per 100,000 People",Other,"Rate per 100,000",NA,NA
+County-level Data,"Doses Administered per 100,000 People",Ouray County,"Rate per 100,000",NA,24057.559789217674
+County-level Data,"Doses Administered per 100,000 People",Park County,"Rate per 100,000",NA,15760.984928889831
+County-level Data,"Doses Administered per 100,000 People",Phillips County,"Rate per 100,000",NA,30388.031790556335
+County-level Data,"Doses Administered per 100,000 People",Pitkin County,"Rate per 100,000",NA,21401.216490200495
+County-level Data,"Doses Administered per 100,000 People",Prowers County,"Rate per 100,000",NA,19105.758125721826
+County-level Data,"Doses Administered per 100,000 People",Pueblo County,"Rate per 100,000",NA,22566.771756587947
+County-level Data,"Doses Administered per 100,000 People",Rio Blanco County,"Rate per 100,000",NA,25891.866180434437
+County-level Data,"Doses Administered per 100,000 People",Rio Grande County,"Rate per 100,000",NA,28421.427300231357
+County-level Data,"Doses Administered per 100,000 People",Routt County,"Rate per 100,000",NA,26980.352409168878
+County-level Data,"Doses Administered per 100,000 People",Saguache County,"Rate per 100,000",NA,14800.703399765533
+County-level Data,"Doses Administered per 100,000 People",San Juan County,"Rate per 100,000",NA,68595.04132231405
+County-level Data,"Doses Administered per 100,000 People",San Miguel County,"Rate per 100,000",NA,22021.04232933692
+County-level Data,"Doses Administered per 100,000 People",Sedgwick County,"Rate per 100,000",NA,49349.48407357559
+County-level Data,"Doses Administered per 100,000 People",Summit County,"Rate per 100,000",NA,24187.457638059583
+County-level Data,"Doses Administered per 100,000 People",Teller County,"Rate per 100,000",NA,19723.9203312956
+County-level Data,"Doses Administered per 100,000 People",Washington County,"Rate per 100,000",NA,16364.403205398567
+County-level Data,"Doses Administered per 100,000 People",Weld County,"Rate per 100,000",NA,16564.89469148729
+County-level Data,"Doses Administered per 100,000 People",Yuma County,"Rate per 100,000",NA,26950.213653979925
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,0-9,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,10-19,NA,0.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,10-19,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,10-19,NA,0.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,10-19,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,10-19,NA,0.7000000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,10-19,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,10-19,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,10-19,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,10-19,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,10-19,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,10-19,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,10-19,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,10-19,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,10-19,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,10-19,NA,0.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,10-19,NA,0.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,10-19,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,20-29,NA,10.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,20-29,NA,8.200000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,20-29,NA,6.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,20-29,NA,12.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,20-29,NA,6.6000000000000005
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,20-29,NA,7.199999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,20-29,NA,6.6000000000000005
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,20-29,NA,7.199999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,20-29,NA,7.199999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,20-29,NA,4.1000000000000005
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,20-29,NA,6.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,20-29,NA,4.3999999999999995
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,20-29,NA,2.9000000000000004
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,20-29,NA,4.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,20-29,NA,4.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,20-29,NA,7.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,20-29,NA,3.6999999999999997
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,30-39,NA,14.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,30-39,NA,12.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,30-39,NA,8.9
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,30-39,NA,18.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,30-39,NA,10.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,30-39,NA,10.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,30-39,NA,11.200000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,30-39,NA,9.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,30-39,NA,11.600000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,30-39,NA,7.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,30-39,NA,11.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,30-39,NA,7.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,30-39,NA,5.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,30-39,NA,7.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,30-39,NA,8.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,30-39,NA,11.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,30-39,NA,7.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,40-49,NA,12.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,40-49,NA,12.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,40-49,NA,10.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,40-49,NA,11.200000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,40-49,NA,14.299999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,40-49,NA,10.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,40-49,NA,10.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,40-49,NA,10.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,40-49,NA,12.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,40-49,NA,7.199999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,40-49,NA,11.600000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,40-49,NA,9.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,40-49,NA,6.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,40-49,NA,7.9
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,40-49,NA,8.9
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,40-49,NA,11.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,40-49,NA,8.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,50-59,NA,10.7
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,50-59,NA,10.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,50-59,NA,10.100000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,50-59,NA,8.200000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,50-59,NA,12.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,50-59,NA,10.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,50-59,NA,10
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,50-59,NA,8.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,50-59,NA,12.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,50-59,NA,9.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,50-59,NA,10.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,50-59,NA,11
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,50-59,NA,9.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,50-59,NA,9.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,50-59,NA,9.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,50-59,NA,9.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,50-59,NA,8.799999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,60-69,NA,12.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,60-69,NA,13.600000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,60-69,NA,14.399999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,60-69,NA,12.9
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,60-69,NA,12.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,60-69,NA,16.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,60-69,NA,14.499999999999998
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,60-69,NA,13.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,60-69,NA,14.799999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,60-69,NA,19.7
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,60-69,NA,18.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,60-69,NA,14.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,60-69,NA,20.599999999999998
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,60-69,NA,23
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,60-69,NA,21.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,60-69,NA,14.099999999999998
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,60-69,NA,18
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,70-79,NA,26.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,70-79,NA,29.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,70-79,NA,34.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,70-79,NA,25.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,70-79,NA,29.9
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,70-79,NA,30.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,70-79,NA,31.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,70-79,NA,34.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,70-79,NA,26.700000000000003
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,70-79,NA,31.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,70-79,NA,31.900000000000002
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,70-79,NA,35.199999999999996
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,70-79,NA,36.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,70-79,NA,34.300000000000004
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,70-79,NA,33.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,70-79,NA,31.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,70-79,NA,37.9
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,80+,NA,11.899999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,80+,NA,13
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,80+,NA,15.299999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,80+,NA,11.200000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,80+,NA,12.7
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,80+,NA,14.099999999999998
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,80+,NA,15.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,80+,NA,16
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,80+,NA,14.399999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,80+,NA,20.599999999999998
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,80+,NA,9.700000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,80+,NA,17.599999999999998
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,80+,NA,19
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,80+,NA,13.100000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,80+,NA,12.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,80+,NA,13.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,80+,NA,15.7
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,Sex: Female,NA,64.60000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,Sex: Female,NA,63
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,Sex: Female,NA,61
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,Sex: Female,NA,62.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,Sex: Female,NA,61.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,Sex: Female,NA,62.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,Sex: Female,NA,61.9
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,Sex: Female,NA,61.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,Sex: Female,NA,62.9
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,Sex: Female,NA,59.199999999999996
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,Sex: Female,NA,56.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,Sex: Female,NA,58.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,Sex: Female,NA,56.10000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,Sex: Female,NA,55.900000000000006
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,Sex: Female,NA,55.7
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,Sex: Female,NA,62.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,Sex: Female,NA,55.7
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,Sex: Male,NA,34.9
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,Sex: Male,NA,36.7
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,Sex: Male,NA,38.9
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,Sex: Male,NA,36.9
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,Sex: Male,NA,38
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,Sex: Male,NA,37.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,Sex: Male,NA,37.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,Sex: Male,NA,38.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,Sex: Male,NA,37.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,Sex: Male,NA,40.699999999999996
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,Sex: Male,NA,43.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,Sex: Male,NA,41.099999999999994
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,Sex: Male,NA,43.7
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,Sex: Male,NA,44
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,Sex: Male,NA,44.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,Sex: Male,NA,37.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,Sex: Male,NA,44.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,Sex: Unknown,NA,0.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,Sex: Unknown,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,Sex: Unknown,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,Sex: Unknown,NA,0.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,Sex: Unknown,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,Sex: Unknown,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,Sex: Unknown,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,Sex: Unknown,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,Sex: Unknown,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,Sex: Unknown,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,Sex: Unknown,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,Sex: Unknown,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,Sex: Unknown,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,Sex: Unknown,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,Sex: Unknown,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,Sex: Unknown,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,Sex: Unknown,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,American Indian or Alaskan Native - Non Hispanic,NA,0.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,American Indian or Alaskan Native - Non Hispanic,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,American Indian or Alaskan Native - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,American Indian or Alaskan Native - Non Hispanic,NA,0.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,American Indian or Alaskan Native - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,American Indian or Alaskan Native - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,American Indian or Alaskan Native - Non Hispanic,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,American Indian or Alaskan Native - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,American Indian or Alaskan Native - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,American Indian or Alaskan Native - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,American Indian or Alaskan Native - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,American Indian or Alaskan Native - Non Hispanic,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,American Indian or Alaskan Native - Non Hispanic,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,American Indian or Alaskan Native - Non Hispanic,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,American Indian or Alaskan Native - Non Hispanic,NA,7.000000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,American Indian or Alaskan Native - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,American Indian or Alaskan Native - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,Asian - Non Hispanic,NA,2.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,Asian - Non Hispanic,NA,3.5000000000000004
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,Asian - Non Hispanic,NA,2.1999999999999997
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,Asian - Non Hispanic,NA,2.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,Asian - Non Hispanic,NA,2.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,Asian - Non Hispanic,NA,2.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,Asian - Non Hispanic,NA,1.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,Asian - Non Hispanic,NA,0.8999999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,Asian - Non Hispanic,NA,0.7000000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,Asian - Non Hispanic,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,Asian - Non Hispanic,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,Asian - Non Hispanic,NA,0.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,Asian - Non Hispanic,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,Asian - Non Hispanic,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,Asian - Non Hispanic,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,Asian - Non Hispanic,NA,0.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,Asian - Non Hispanic,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,Black or African American - Non Hispanic,NA,2.1999999999999997
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,Black or African American - Non Hispanic,NA,6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,Black or African American - Non Hispanic,NA,0.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,Black or African American - Non Hispanic,NA,5.800000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,Black or African American - Non Hispanic,NA,0.8999999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,Black or African American - Non Hispanic,NA,2.9000000000000004
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,Black or African American - Non Hispanic,NA,0.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,Black or African American - Non Hispanic,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,Black or African American - Non Hispanic,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,Black or African American - Non Hispanic,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,Black or African American - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,Black or African American - Non Hispanic,NA,1
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,Black or African American - Non Hispanic,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,Black or African American - Non Hispanic,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,Black or African American - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,Black or African American - Non Hispanic,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,Black or African American - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,"Hispanic, All Races",NA,9.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,"Hispanic, All Races",NA,3.5000000000000004
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,"Hispanic, All Races",NA,3.4000000000000004
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,"Hispanic, All Races",NA,7.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,"Hispanic, All Races",NA,1.7999999999999998
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,"Hispanic, All Races",NA,3.5000000000000004
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,"Hispanic, All Races",NA,3.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,"Hispanic, All Races",NA,2.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,"Hispanic, All Races",NA,2.7
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,"Hispanic, All Races",NA,3.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,"Hispanic, All Races",NA,3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,"Hispanic, All Races",NA,15
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,"Hispanic, All Races",NA,9.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,"Hispanic, All Races",NA,8.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,"Hispanic, All Races",NA,3.5999999999999996
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,"Hispanic, All Races",NA,7.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,"Hispanic, All Races",NA,2.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,Multi Race - Non Hispanic,NA,2.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,Multi Race - Non Hispanic,NA,2.8000000000000003
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,Multi Race - Non Hispanic,NA,1.4000000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,Multi Race - Non Hispanic,NA,2.8000000000000003
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,Multi Race - Non Hispanic,NA,1.4000000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,Multi Race - Non Hispanic,NA,1.4000000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,Multi Race - Non Hispanic,NA,1.7000000000000002
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,Multi Race - Non Hispanic,NA,1.0999999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,Multi Race - Non Hispanic,NA,0.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,Multi Race - Non Hispanic,NA,0.7000000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,Multi Race - Non Hispanic,NA,0.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,Multi Race - Non Hispanic,NA,0.7000000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,Multi Race - Non Hispanic,NA,0.7000000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,Multi Race - Non Hispanic,NA,0.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,Multi Race - Non Hispanic,NA,1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,Multi Race - Non Hispanic,NA,1.0999999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,Multi Race - Non Hispanic,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,Native Hawaiian or Other Pacific Islander - Non Hispanic,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,Other,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,Other,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,Other,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,Other,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,Other,NA,0
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,Other,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,Other,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,Other,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,Other,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,Other,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,Other,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,Other,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,Other,NA,0.1
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,Other,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,Other,NA,0.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,Other,NA,0.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,Other,NA,0.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,Unknown,NA,17.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,Unknown,NA,13.600000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,Unknown,NA,9.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,Unknown,NA,15.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,Unknown,NA,11.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,Unknown,NA,11.600000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,Unknown,NA,13.700000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,Unknown,NA,5.6000000000000005
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,Unknown,NA,16.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,Unknown,NA,8.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,Unknown,NA,22.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,Unknown,NA,22.6
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,Unknown,NA,21.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,Unknown,NA,22.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,Unknown,NA,15.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,Unknown,NA,8.200000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,Unknown,NA,25.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,Adams,White - Non Hispanic,NA,64.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Arapahoe,White - Non Hispanic,NA,69.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Broomfield & Boulder Region,White - Non Hispanic,NA,82.19999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,Denver,White - Non Hispanic,NA,64.8
+County-level Data,Percent of Cumulative Vaccines by Demographics,Douglas,White - Non Hispanic,NA,81.89999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,El Paso,White - Non Hispanic,NA,78.10000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,Jefferson,White - Non Hispanic,NA,78.7
+County-level Data,Percent of Cumulative Vaccines by Demographics,Larimer,White - Non Hispanic,NA,89.2
+County-level Data,Percent of Cumulative Vaccines by Demographics,Mesa,White - Non Hispanic,NA,78.60000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,North East Region,White - Non Hispanic,NA,86
+County-level Data,Percent of Cumulative Vaccines by Demographics,North West Region,White - Non Hispanic,NA,72.39999999999999
+County-level Data,Percent of Cumulative Vaccines by Demographics,Pueblo,White - Non Hispanic,NA,59.3
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Region,White - Non Hispanic,NA,67.4
+County-level Data,Percent of Cumulative Vaccines by Demographics,South Central Region,White - Non Hispanic,NA,67.30000000000001
+County-level Data,Percent of Cumulative Vaccines by Demographics,South West Region,White - Non Hispanic,NA,72.5
+County-level Data,Percent of Cumulative Vaccines by Demographics,Weld,White - Non Hispanic,NA,81
+County-level Data,Percent of Cumulative Vaccines by Demographics,West Region,White - Non Hispanic,NA,71.3
+County-level Data,Doses Distributed,Park County,Count,NA,1200
+County-level Data,Doses Distributed,Elbert County,Count,NA,500
+County-level Data,Doses Distributed,Las Animas County,Count,NA,4700
+County-level Data,Doses Distributed,Prowers County,Count,NA,3200
+County-level Data,Doses Distributed,Saguache County,Count,NA,1500
+County-level Data,Doses Distributed,San Juan County,Count,NA,800
+County-level Data,Doses Distributed,Sedgwick County,Count,NA,1800
+County-level Data,Doses Distributed,Moffat County,Count,NA,3800
+County-level Data,Doses Distributed,Archuleta County,Count,NA,800
+County-level Data,Doses Distributed,Montezuma County,Count,NA,6950
+County-level Data,Doses Distributed,Boulder County,Count,NA,73225
+County-level Data,Doses Distributed,Chaffee County,Count,NA,7150
+County-level Data,Doses Distributed,Baca County,Count,NA,1600
+County-level Data,Doses Distributed,Jackson County,Count,NA,400
+County-level Data,Doses Distributed,Logan County,Count,NA,5175
+County-level Data,Doses Distributed,Huerfano County,Count,NA,2300
+County-level Data,Doses Distributed,Bent County,Count,NA,1000
+County-level Data,Doses Distributed,Gunnison County,Count,NA,6925
+County-level Data,Doses Distributed,Lincoln County,Count,NA,1700
+County-level Data,Doses Distributed,Custer County,Count,NA,1400
+County-level Data,Doses Distributed,Eagle County,Count,NA,17000
+County-level Data,Doses Distributed,Pitkin County,Count,NA,6025
+County-level Data,Doses Distributed,Douglas County,Count,NA,43400
+County-level Data,Doses Distributed,La Plata County,Count,NA,19225
+County-level Data,Doses Distributed,Fremont County,Count,NA,6100
+County-level Data,Doses Distributed,Delta County,Count,NA,6300
+County-level Data,Doses Distributed,Mesa County,Count,NA,33700
+County-level Data,Doses Distributed,Kiowa County,Count,NA,1200
+County-level Data,Doses Distributed,Hinsdale County,Count,NA,600
+County-level Data,Doses Distributed,Conejos County,Count,NA,1500
+County-level Data,Doses Distributed,Broomfield County,Count,NA,8375
+County-level Data,Doses Distributed,Crowley County,Count,NA,700
+County-level Data,Doses Distributed,Alamosa County,Count,NA,8750
+County-level Data,Doses Distributed,Cheyenne County,Count,NA,900
+County-level Data,Doses Distributed,Mineral County,Count,NA,700
+County-level Data,Doses Distributed,Rio Grande County,Count,NA,2200
+County-level Data,Doses Distributed,El Paso County,Count,NA,121550
+County-level Data,Doses Distributed,Kit Carson County,Count,NA,1800
+County-level Data,Doses Distributed,Denver County,Count,NA,174850
+County-level Data,Doses Distributed,Lake County,Count,NA,2100
+County-level Data,Doses Distributed,Arapahoe County,Count,NA,56250
+County-level Data,Doses Distributed,Yuma County,Count,NA,2300
+County-level Data,Doses Distributed,Ouray County,Count,NA,1100
+County-level Data,Doses Distributed,Garfield County,Count,NA,11750
+County-level Data,Doses Distributed,Gilpin County,Count,NA,1100
+County-level Data,Doses Distributed,Summit County,Count,NA,9050
+County-level Data,Doses Distributed,Otero County,Count,NA,5875
+County-level Data,Doses Distributed,Pueblo County,Count,NA,53575
+County-level Data,Doses Distributed,San Miguel County,Count,NA,2100
+County-level Data,Doses Distributed,Phillips County,Count,NA,2200
+County-level Data,Doses Distributed,Rio Blanco County,Count,NA,2500
+County-level Data,Doses Distributed,Jefferson County,Count,NA,86550
+County-level Data,Doses Distributed,Larimer County,Count,NA,66325
+County-level Data,Doses Distributed,Weld County,Count,NA,37475
+County-level Data,Doses Distributed,Routt County,Count,NA,6525
+County-level Data,Doses Distributed,Adams County,Count,NA,175100
+County-level Data,Doses Distributed,Washington County,Count,NA,600
+County-level Data,Doses Distributed,Teller County,Count,NA,2300
+County-level Data,Doses Distributed,Grand County,Count,NA,4000
+County-level Data,Doses Distributed,Dolores County,Count,NA,400
+County-level Data,Doses Distributed,Costilla County,Count,NA,1400
+County-level Data,Doses Distributed,Montrose County,Count,NA,9400
+County-level Data,Doses Distributed,Clear Creek County,Count,NA,1800
+County-level Data,Doses Distributed,Morgan County,Count,NA,4800
+County-level Data,"Doses Distributed per 100,000 People",Park County,"Rate per 100,000",NA,6368
+County-level Data,"Doses Distributed per 100,000 People",Elbert County,"Rate per 100,000",NA,1874
+County-level Data,"Doses Distributed per 100,000 People",Las Animas County,"Rate per 100,000",NA,32429
+County-level Data,"Doses Distributed per 100,000 People",Prowers County,"Rate per 100,000",NA,26398
+County-level Data,"Doses Distributed per 100,000 People",Saguache County,"Rate per 100,000",NA,21981
+County-level Data,"Doses Distributed per 100,000 People",San Juan County,"Rate per 100,000",NA,110193
+County-level Data,"Doses Distributed per 100,000 People",Sedgwick County,"Rate per 100,000",NA,80754
+County-level Data,"Doses Distributed per 100,000 People",Moffat County,"Rate per 100,000",NA,28675
+County-level Data,"Doses Distributed per 100,000 People",Archuleta County,"Rate per 100,000",NA,5713
+County-level Data,"Doses Distributed per 100,000 People",Montezuma County,"Rate per 100,000",NA,26567
+County-level Data,"Doses Distributed per 100,000 People",Boulder County,"Rate per 100,000",NA,22382
+County-level Data,"Doses Distributed per 100,000 People",Chaffee County,"Rate per 100,000",NA,35116
+County-level Data,"Doses Distributed per 100,000 People",Baca County,"Rate per 100,000",NA,44994
+County-level Data,"Doses Distributed per 100,000 People",Jackson County,"Rate per 100,000",NA,28923
+County-level Data,"Doses Distributed per 100,000 People",Logan County,"Rate per 100,000",NA,23615
+County-level Data,"Doses Distributed per 100,000 People",Huerfano County,"Rate per 100,000",NA,33557
+County-level Data,"Doses Distributed per 100,000 People",Bent County,"Rate per 100,000",NA,17247
+County-level Data,"Doses Distributed per 100,000 People",Gunnison County,"Rate per 100,000",NA,39583
+County-level Data,"Doses Distributed per 100,000 People",Lincoln County,"Rate per 100,000",NA,29866
+County-level Data,"Doses Distributed per 100,000 People",Custer County,"Rate per 100,000",NA,27673
+County-level Data,"Doses Distributed per 100,000 People",Eagle County,"Rate per 100,000",NA,30870
+County-level Data,"Doses Distributed per 100,000 People",Pitkin County,"Rate per 100,000",NA,33932
+County-level Data,"Doses Distributed per 100,000 People",Douglas County,"Rate per 100,000",NA,12346
+County-level Data,"Doses Distributed per 100,000 People",La Plata County,"Rate per 100,000",NA,34164
+County-level Data,"Doses Distributed per 100,000 People",Fremont County,"Rate per 100,000",NA,12803
+County-level Data,"Doses Distributed per 100,000 People",Delta County,"Rate per 100,000",NA,20210
+County-level Data,"Doses Distributed per 100,000 People",Mesa County,"Rate per 100,000",NA,21751
+County-level Data,"Doses Distributed per 100,000 People",Kiowa County,"Rate per 100,000",NA,86022
+County-level Data,"Doses Distributed per 100,000 People",Hinsdale County,"Rate per 100,000",NA,73260
+County-level Data,"Doses Distributed per 100,000 People",Conejos County,"Rate per 100,000",NA,18380
+County-level Data,"Doses Distributed per 100,000 People",Broomfield County,"Rate per 100,000",NA,11835
+County-level Data,"Doses Distributed per 100,000 People",Crowley County,"Rate per 100,000",NA,11605
+County-level Data,"Doses Distributed per 100,000 People",Alamosa County,"Rate per 100,000",NA,54076
+County-level Data,"Doses Distributed per 100,000 People",Cheyenne County,"Rate per 100,000",NA,49315
+County-level Data,"Doses Distributed per 100,000 People",Mineral County,"Rate per 100,000",NA,91623
+County-level Data,"Doses Distributed per 100,000 People",Rio Grande County,"Rate per 100,000",NA,19576
+County-level Data,"Doses Distributed per 100,000 People",El Paso County,"Rate per 100,000",NA,16824
+County-level Data,"Doses Distributed per 100,000 People",Kit Carson County,"Rate per 100,000",NA,25253
+County-level Data,"Doses Distributed per 100,000 People",Denver County,"Rate per 100,000",NA,23977
+County-level Data,"Doses Distributed per 100,000 People",Lake County,"Rate per 100,000",NA,25987
+County-level Data,"Doses Distributed per 100,000 People",Arapahoe County,"Rate per 100,000",NA,8564
+County-level Data,"Doses Distributed per 100,000 People",Yuma County,"Rate per 100,000",NA,22856
+County-level Data,"Doses Distributed per 100,000 People",Ouray County,"Rate per 100,000",NA,22294
+County-level Data,"Doses Distributed per 100,000 People",Garfield County,"Rate per 100,000",NA,19529
+County-level Data,"Doses Distributed per 100,000 People",Gilpin County,"Rate per 100,000",NA,17699
+County-level Data,"Doses Distributed per 100,000 People",Summit County,"Rate per 100,000",NA,29210
+County-level Data,"Doses Distributed per 100,000 People",Otero County,"Rate per 100,000",NA,32137
+County-level Data,"Doses Distributed per 100,000 People",Pueblo County,"Rate per 100,000",NA,31869
+County-level Data,"Doses Distributed per 100,000 People",San Miguel County,"Rate per 100,000",NA,25691
+County-level Data,"Doses Distributed per 100,000 People",Phillips County,"Rate per 100,000",NA,51426
+County-level Data,"Doses Distributed per 100,000 People",Rio Blanco County,"Rate per 100,000",NA,39638
+County-level Data,"Doses Distributed per 100,000 People",Jefferson County,"Rate per 100,000",NA,14844
+County-level Data,"Doses Distributed per 100,000 People",Larimer County,"Rate per 100,000",NA,18582
+County-level Data,"Doses Distributed per 100,000 People",Weld County,"Rate per 100,000",NA,11575
+County-level Data,"Doses Distributed per 100,000 People",Routt County,"Rate per 100,000",NA,25437
+County-level Data,"Doses Distributed per 100,000 People",Adams County,"Rate per 100,000",NA,33811
+County-level Data,"Doses Distributed per 100,000 People",Washington County,"Rate per 100,000",NA,12653
+County-level Data,"Doses Distributed per 100,000 People",Teller County,"Rate per 100,000",NA,9071
+County-level Data,"Doses Distributed per 100,000 People",Grand County,"Rate per 100,000",NA,25449
+County-level Data,"Doses Distributed per 100,000 People",Dolores County,"Rate per 100,000",NA,19637
+County-level Data,"Doses Distributed per 100,000 People",Costilla County,"Rate per 100,000",NA,36157
+County-level Data,"Doses Distributed per 100,000 People",Montrose County,"Rate per 100,000",NA,21981
+County-level Data,"Doses Distributed per 100,000 People",Clear Creek County,"Rate per 100,000",NA,18480
+County-level Data,"Doses Distributed per 100,000 People",Morgan County,"Rate per 100,000",NA,16561
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Adams County,Difference of percentage points,NA,6.54
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Alamosa County,Difference of percentage points,NA,0.5
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Arapahoe County,Difference of percentage points,NA,-6.41
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Archuleta County,Difference of percentage points,NA,-0.17
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Baca County,Difference of percentage points,NA,0.08
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Bent County,Difference of percentage points,NA,-0.01
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Boulder County,Difference of percentage points,NA,0.82
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Broomfield County,Difference of percentage points,NA,-0.48
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Chaffee County,Difference of percentage points,NA,0.28
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Cheyenne County,Difference of percentage points,NA,0.05
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Clear Creek County,Difference of percentage points,NA,-0.01
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Conejos County,Difference of percentage points,NA,-0.01
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Costilla County,Difference of percentage points,NA,0.06
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Crowley County,Difference of percentage points,NA,-0.04
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Custer County,Difference of percentage points,NA,0.04
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Delta County,Difference of percentage points,NA,0.02
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Denver County,Difference of percentage points,NA,2.86
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Dolores County,Difference of percentage points,NA,0
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Douglas County,Difference of percentage points,NA,-2.25
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Eagle County,Difference of percentage points,NA,0.55
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,El Paso County,Difference of percentage points,NA,-1.75
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Elbert County,Difference of percentage points,NA,-0.42
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Fremont County,Difference of percentage points,NA,-0.29
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Garfield County,Difference of percentage points,NA,0
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Gilpin County,Difference of percentage points,NA,-0.01
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Grand County,Difference of percentage points,NA,0.08
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Gunnison County,Difference of percentage points,NA,0.31
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Hinsdale County,Difference of percentage points,NA,0.04
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Huerfano County,Difference of percentage points,NA,0.09
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Jackson County,Difference of percentage points,NA,0.01
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Jefferson County,Difference of percentage points,NA,-2.44
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Kiowa County,Difference of percentage points,NA,0.08
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Kit Carson County,Difference of percentage points,NA,0.04
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,La Plata County,Difference of percentage points,NA,0.73
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Lake County,Difference of percentage points,NA,0.05
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Larimer County,Difference of percentage points,NA,-0.31
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Las Animas County,Difference of percentage points,NA,0.17
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Lincoln County,Difference of percentage points,NA,0.05
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Logan County,Difference of percentage points,NA,0.08
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Mesa County,Difference of percentage points,NA,0.3
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Mineral County,Difference of percentage points,NA,0.05
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Moffat County,Difference of percentage points,NA,0.11
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Montezuma County,Difference of percentage points,NA,0.16
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Montrose County,Difference of percentage points,NA,0.09
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Morgan County,Difference of percentage points,NA,-0.08
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Otero County,Difference of percentage points,NA,0.2
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Ouray County,Difference of percentage points,NA,0.01
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Park County,Difference of percentage points,NA,-0.22
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Phillips County,Difference of percentage points,NA,0.12
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Pitkin County,Difference of percentage points,NA,0.23
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Prowers County,Difference of percentage points,NA,0.07
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Pueblo County,Difference of percentage points,NA,1.83
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Rio Blanco County,Difference of percentage points,NA,0.11
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Rio Grande County,Difference of percentage points,NA,0
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Routt County,Difference of percentage points,NA,0.13
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Saguache County,Difference of percentage points,NA,0.01
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,San Juan County,Difference of percentage points,NA,0.06
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,San Miguel County,Difference of percentage points,NA,0.04
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Sedgwick County,Difference of percentage points,NA,0.12
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Summit County,Difference of percentage points,NA,0.27
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Teller County,Difference of percentage points,NA,-0.24
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Washington County,Difference of percentage points,NA,-0.03
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Weld County,Difference of percentage points,NA,-2.29
+County-level Data,Difference Between Percent of Doses Distributed and Percent of State Population,Yuma County,Difference of percentage points,NA,0.03
+Vaccine Administration,Distribution,Weekly,Pfizer,2020-12-06,46800
+Vaccine Administration,Distribution,Weekly,Moderna,2020-12-06,0
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2020-12-06,46800
+Vaccine Administration,Distribution,Weekly,Pfizer,2020-12-13,58500
+Vaccine Administration,Distribution,Weekly,Moderna,2020-12-13,95600
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2020-12-13,154100
+Vaccine Administration,Distribution,Weekly,Pfizer,2020-12-20,71175
+Vaccine Administration,Distribution,Weekly,Moderna,2020-12-20,128600
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2020-12-20,199775
+Vaccine Administration,Distribution,Weekly,Pfizer,2020-12-27,120900
+Vaccine Administration,Distribution,Weekly,Moderna,2020-12-27,146500
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2020-12-27,267400
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-01-03,146250
+Vaccine Administration,Distribution,Weekly,Moderna,2021-01-03,193800
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-01-03,340050
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-01-10,194025
+Vaccine Administration,Distribution,Weekly,Moderna,2021-01-10,323400
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-01-10,517425
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-01-17,232050
+Vaccine Administration,Distribution,Weekly,Moderna,2021-01-17,391400
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-01-17,623450
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-01-24,294450
+Vaccine Administration,Distribution,Weekly,Moderna,2021-01-24,466500
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-01-24,760950
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-01-31,374400
+Vaccine Administration,Distribution,Weekly,Moderna,2021-01-31,554200
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-01-31,928600
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-02-07,462150
+Vaccine Administration,Distribution,Weekly,Moderna,2021-02-07,639100
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-02-07,1101250
+Vaccine Administration,Distribution,Weekly,Pfizer,2021-02-14,488475
+Vaccine Administration,Distribution,Weekly,Moderna,2021-02-14,639100
+Vaccine Administration,Distribution,Weekly,All COVID Vaccines,2021-02-14,1127575
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2020-12-06,46800
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2020-12-06,0
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2020-12-06,46800
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2020-12-13,11700
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2020-12-13,95600
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2020-12-13,107300
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2020-12-20,12675
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2020-12-20,33000
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2020-12-20,45675
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2020-12-27,49725
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2020-12-27,17900
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2020-12-27,67625
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-01-03,25350
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-01-03,47300
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-01-03,72650
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-01-10,47775
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-01-10,129600
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-01-10,177375
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-01-17,38025
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-01-17,68000
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-01-17,106025
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-01-24,62400
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-01-24,75100
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-01-24,137500
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-01-31,79950
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-01-31,87700
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-01-31,167650
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-02-07,87750
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-02-07,84900
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-02-07,172650
+Vaccine Administration,Distribution,Cumulative Weekly,Pfizer,2021-02-14,26325
+Vaccine Administration,Distribution,Cumulative Weekly,Moderna,2021-02-14,0
+Vaccine Administration,Distribution,Cumulative Weekly,All COVID Vaccines,2021-02-14,26325
