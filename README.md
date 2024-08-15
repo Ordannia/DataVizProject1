@@ -1,4 +1,5 @@
 COVID-19 Vaccination Trends- Analysis and Conclusions
+
 Aaron Wood, Danita Charles, Rebekkah Alexander and Barry Maldonado
 
 Project Proposal 
