@@ -1,21 +1,31 @@
-# DataVizProject1
+COVID-19 Vaccination Trends- Analysis and Conclusions
 
-Data colleced daily from 01/09/2021 - 05/09/2023
+Aaron Wood, Danita Charles, Rebekkah Alexander and Barry Maldonado
 
-About County and Age Group up to date CSV
-This file includes counts of fully vaccinated individuals from the Colorado Immunization Information System (CIIS) by county of residence in CIIS and age group (12+, 18+, and  65+). County population data is sourced from the most recent year of estimates available from the State Demographer’s Office within the Colorado Department of Local Affairs (DOLA). This file is updated daily. 
+Project Proposal 
 
-https://cdphe.colorado.gov/covid-19/vaccine-data
-https://drive.google.com/drive/folders/1efQVBclGxwnCCYVLbzH96A0QRSWwmTYI
-https://drive.google.com/drive/folders/1r095ofG8YvNj_dMWEq4XKkfhDaF8-I0n
+Colorado vaccine rates per county, age, manufacturer, and series based on data collected by the Colorado Department of Public Health & Environment.
+The goal of our project is to compare the vaccine rates per county in Colorado from 2020-2023. We will also compare vaccination rates per county, the age ranges(12+, 18+, 65+), 
+the year by year vaccination rates by manufacturer, (Moderna, Pfizer, J&J, Novavax), and number of doses administered Primary Doses per year vs the Omicron Doses per year per county.
 
+Vaccination Doses Administered Per County
 
-About County Vaccine Rate csvs
-The 4 csvs including vaccination rate information for 2020 to 2023 include information on doses administered per county. This includes both vaccines and boosters included in the same counts. Each csv is a cumulative count of doses administered up to that point. Each csv is the last datapoint for that year. The earliest recording the CDPHE had for doses administered by county was 2/19/2021 so part of the 2020 data includes a month and a half of 2021.
+Based on vaccines administered to each county per year. In every county, the highest jump in doses administered was between 2020 and 2021. The smallest jump was 2022 to 2023. Denver county is the largest county and has the most obvious jumps in 
+doses administered. It's also interesting to note that all the counties around Denver also have very obvious jumps. As you get further from Denver, the vaccinations and booster doses administered significantly drops. These same counties also tended 
+to have higher rates of increase through the years. For example, Arapahoe had a 924% increase from 2020 to 2021 while Alamosa only had a 494% increase. 
 
-https://drive.google.com/drive/folders/1r095ofG8YvNj_dMWEq4XKkfhDaF8-I0n
+Vaccinations Per County Per Age Ranges
 
-About Unique Counties and Unique Counties Coords csvs
-Unique Counties was created to put together all the county names I need the coordinates for, Unique Counties Coords is the CSV edited from the original that holds the coordinates. Coordinates information sources from Colorado's Decision Support Systems Location Converter.
+Based on vaccination rates among the age groups 12+, 18+, 65+, the fully vaccinated rates of the smallest counties were closer in percentage amongst the age groups, but only acheived about 50 to 60 percent full vaccination of the county. A couple of outliers were San Juan and Mineral, each with less than 1000 population fully vaccinated, achieved approximately 90 percent vaccination rates in all age groups.
 
-https://dwr.state.co.us/Tools/LocationConverter
+Vaccination Rates Per Manufacturer Per Year
+
+The analysis reveals that Pfizer and Moderna vaccines played a dominant role in the global vaccination effort, with a significant surge in adoption starting in late 2020, corresponding to their emergency use authorizations. This rapid uptake highlights the pivotal role these vaccines had in the early stages of the pandemic response. Additionally, the data uncovers seasonal patterns, with heightened vaccination rates during the winter months, likely driven by public health initiatives aimed at combating increased respiratory illnesses. Spikes in vaccination rates also aligned with the emergence of new COVID-19 variants, reflecting both public concern and swift governmental action to mitigate these threats.
+
+Vaccination Rates Per Series
+
+Analyzing the volume of vaccination series completed trends along the timing of the CDC recommendations for initial vaccination, boosters, and omicron variant boosters, indicates that in general, Colorado vaccination rates increase and decrease based on the timing of those CDC recommendations. However, a discrepancy arises when the volume of omicron specific doses increases slower than ’additional & booster doses’ administered within the same time period. Further exploring the data combined in conjunction with the manufacturer rollout, indicates that whether through overall obfuscation of pandemic vaccination data tracking and categorizing likely impacted the coding of the series each vaccination occurred within, rather than any broader impact to vaccination volumes themselves.
+
+Considerations
+
+It’s important to recognize that the dataset contains some gaps, particularly during critical phases of vaccine rollout. These gaps will influence the interpretation of trends, especially when considering regional disparities and the representation of vaccines in the 'Other' category. These limitations suggest that while the data provides valuable insights into vaccine distribution and adoption, further research is needed to fully understand the dynamics at play, particularly in less well-documented regions or for lesser-known vaccines.
